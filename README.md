@@ -6,9 +6,11 @@ Download the code by cloning the repository
 
 After cloning, enter the following instructions in your command line:
 
+```
 cd Tests/acceptance
 
 behave
+```
 
 Thank you.
 
