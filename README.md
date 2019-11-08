@@ -11,6 +11,7 @@ behave
 
 
 Path to the gherkin file is: Tests/acceptance/navigation.feature
+
 Path to the steps execution (selenium) file is: Tests/acceptance/steps/navigation.py
 
 Thank you.
