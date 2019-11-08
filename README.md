@@ -7,6 +7,7 @@ Download the code by cloning the repository
 After cloning, enter the following instraction in your command line:
 
 cd Tests/acceptance
+
 behave
 
 
